@@ -1,16 +1,12 @@
-===========================================================
 Chromatic Scale Generator Deluxe
 DOWNLOAD https://gamebanana.com/tools/20598
-===========================================================
 
 Author: Malloy
 Original By: ChillSpace and NullFrequency
 License: GPL-3.0-or-later
 Support: Join the Discord → https://discord.gg/pe6J4FbcCU
 
-===========================================================
 WHAT THIS APP DOES
-===========================================================
 This program generates a "fnf chromatic scale" WAV file from your own
 samples (short audio recordings). A chromatic scale contains every
 note in order (C, C#, D, etc.) over the range you select. 
@@ -26,9 +22,7 @@ The app can also:
 - Export both a single "chromatic.wav" AND optional individual
   per-note files.
 
-===========================================================
 HOW TO USE
-===========================================================
 1. Launch ChromaticScaleGeneratorDeluxe.exe
 
 2. Choose your SAMPLE FOLDER:
@@ -57,9 +51,7 @@ HOW TO USE
    - Drag chromatic.wav into FL Studio Slicex (markers are already added).
    - Or use the per-note WAVs if you prefer individual files.
 
-===========================================================
 TROUBLESHOOTING
-===========================================================
 
 [App doesn’t start / crashes immediately]
 - Make sure you extracted all files, not just the .exe.
